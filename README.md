@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.app.goo.gl/tc25DNTzWU7Ym6iC9" alt="animated" />
+  <img src="https://images.app.goo.gl/MDj3X47mQuvhwguj8" alt="animated" />
 </p>
 
 <p align="center">
