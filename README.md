@@ -87,16 +87,16 @@ heroku/nodejs
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+916909137213"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+918348225320"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/Dykn5rmHyzV6cBV6kWDI0s"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
+* [`My Youtube Channel`](https://youtube.com/channel/UCmI5wn_THTntx58EookLwUw)
 
 # Thanks To 👇
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
+* [`Deepak`](https://github.com/deepakthelegend)
